@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- sEMG project ---
+# datasets and generated arrays stay local (download them, then run the loaders)
+/data/
+*.h5
+*.npz
+# empty scratch notebooks
+Untitled*.ipynb
+# shared in the group chat, not the code repo
+sEMG_Tasks.pdf
