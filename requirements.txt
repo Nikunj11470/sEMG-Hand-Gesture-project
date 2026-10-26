@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+h5py
+torch
+wfdb
+jupyter
